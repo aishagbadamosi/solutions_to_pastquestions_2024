@@ -1,8 +1,8 @@
 # CONTRIBUTORS.
 ## Contributors should add thier names, github username and matric number here.
-# NAME - Samuel Joseph Chimdindu
-# GITHUB USERNAME - Sjay2468
-# MATRIC NO - U22CS1109
+# NAME - Gbadamosi Aisha
+# GITHUB USERNAME - aishagbadamosi
+# MATRIC NO - U22CS1055
 <ol>
 <li>William Rupert Waboke
 
